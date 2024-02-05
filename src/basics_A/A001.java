@@ -1,4 +1,4 @@
-package zeroJudge;
+package basics_A;
 
 import java.util.Scanner;
 
