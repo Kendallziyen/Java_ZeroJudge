@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Zero_Judge.iml" filepath="$PROJECT_DIR$/Zero_Judge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZeroJudge.iml" filepath="$PROJECT_DIR$/ZeroJudge.iml" />
     </modules>
   </component>
 </project>
