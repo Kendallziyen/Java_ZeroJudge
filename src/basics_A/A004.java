@@ -18,5 +18,7 @@ public class A004 {
                 System.out.println("平年");
             }
         }
+
+        year.close();
     }
 }

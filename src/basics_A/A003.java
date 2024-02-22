@@ -22,5 +22,6 @@ public class A003 {
                 System.out.println("大吉");
             }
         }
+        num.close();
     }
 }

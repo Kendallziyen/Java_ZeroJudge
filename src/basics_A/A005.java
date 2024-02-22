@@ -28,5 +28,7 @@ public class A005 {
                 }
             }
         }
+
+        t.close();
     }
 }

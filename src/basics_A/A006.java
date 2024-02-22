@@ -26,5 +26,7 @@ public class A006 {
                 System.out.println("No real root");
             }
         }
+
+        num.close();
     }
 }

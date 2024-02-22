@@ -9,5 +9,7 @@ public class A001 {
         Scanner myObj = new Scanner(System.in);
         String std = myObj.nextLine();
         System.out.println("hello, " + std);
+
+        myObj.close();
     }
 }
